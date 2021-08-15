@@ -1,3 +1,7 @@
+## Preview
+
+video]https://www.youtube.com/watch?v=3Gw76-ipVww
+
 ## Included:
 1. Logs
 2. Custom menu
