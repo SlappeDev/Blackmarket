@@ -1,6 +1,7 @@
 ## Preview
 
-[![Video](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Fyoutube-logo-PNG-free-PNG-Images_473435&psig=AOvVaw3V9rttPNhCNAqQuxQjrYK1&ust=1629113841242000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDE25L4svICFQAAAAAdAAAAABAO)](https://www.youtube.com/watch?v=3Gw76-ipVww)
+[![Video](![image](https://user-images.githubusercontent.com/88968058/129477311-0a5d2049-56bb-4ea6-bb2b-0de480af1f08.png))](https://www.youtube.com/watch?v=3Gw76-ipVww)
+
 
 ## Included:
 1. Logs
