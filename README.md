@@ -20,16 +20,8 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 3. Start/Restart your server and enjoy!
 
-## Banner 4
+## Discord 
 ![Discord Banner 4](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner4)
 
-### Markdown
-```
-![Discord Banner 4](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4)
-```
-### HTML
-```html
-<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
-```
 
 
