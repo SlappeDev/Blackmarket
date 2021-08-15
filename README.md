@@ -1,6 +1,6 @@
 ## Preview
 
-![](https://pixabay.com/vectors/youtube-logo-youtube-logo-icon-6019878/)](https://www.youtube.com/watch?v=3Gw76-ipVww "Slppe Blackmarket")
+![Video](https://pixabay.com/vectors/youtube-logo-youtube-logo-icon-6019878/)](https://www.youtube.com/watch?v=3Gw76-ipVww "Slappe Blackmarket")
 
 ## Included:
 1. Logs
