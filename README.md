@@ -20,9 +20,9 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 ## Installation 
 
-1. Place folder slappe_blackmarket in you /resources/ folder
+1. Place folder **slappe_blackmarket** in your resources folder
 
-2. Add in your slappe_blackmarket server.cfg file
+2. Add in your **slappe_blackmarket** server.cfg file
 
 3. Start/Restart your server and enjoy!
 
