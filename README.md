@@ -21,7 +21,7 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 3. Start/Restart your server and enjoy!
 
 ## Discord 
-![Discord Banner 4](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner4)
+![Slappe Scripts](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner2)
 
 
 
