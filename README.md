@@ -1,4 +1,4 @@
-### Included:
+## Included:
 1. Logs
 2. Custom menu
 3. Customizable in config.lua
@@ -6,7 +6,7 @@
 
 ---
 
-### Requirements:
+## Requirements:
 
 Menu https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
 
@@ -14,7 +14,7 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 ---
 
-### Installation 
+## Installation 
 
 1. Place folder slappe_blackmarket in you /resources/ folder
 
