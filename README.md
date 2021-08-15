@@ -22,5 +22,6 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 ## Discord Support
 
-<img src="https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner4" alt="Discord"/>
+![Discord Banner 4](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner4)
+
 
