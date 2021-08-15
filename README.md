@@ -1,6 +1,4 @@
-### Slappe-Blackmarket
-
- ### Included:
+### Included:
 
 Logs
 
