@@ -1,6 +1,12 @@
 ## Preview
 
-video]https://www.youtube.com/watch?v=3Gw76-ipVww
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=3Gw76-ipVww" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=3Gw76-ipVww"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 ## Included:
 1. Logs
