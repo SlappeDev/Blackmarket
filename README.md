@@ -20,3 +20,7 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 3. Start/Restart your server and enjoy!
 
+## Discord Support
+
+<img src="https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner4" alt="Discord"/>
+
