@@ -20,10 +20,11 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 3. Start/Restart your server and enjoy!
 
-## Discord 
-[![Discord](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner2)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## Support 
 
-![Slappe Scripts](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner2)
+Discord:
+[![Discord](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner2)](https://discord.gg/46mnpprSpB)
+
 
 
 
