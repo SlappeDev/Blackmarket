@@ -22,7 +22,6 @@ Progressbar https://github.com/BrunoMarc123/BR-Menu
 
 ## Support 
 
-Discord:
 [![Discord](https://discordapp.com/api/guilds/842308649338011658/widget.png?style=banner2)](https://discord.gg/46mnpprSpB)
 
 
