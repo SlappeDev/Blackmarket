@@ -1,6 +1,6 @@
 ## Preview
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/https://www.youtube.com/watch?v=3Gw76-ipVww/0.jpg)](https://www.youtube.com/watch?v=3Gw76-ipVww "Slppe Blackmarket")
+[here](http://img.youtube.com/vi/https://www.youtube.com/watch?v=3Gw76-ipVww/0.jpg)](https://www.youtube.com/watch?v=3Gw76-ipVww "Slppe Blackmarket")
 
 ## Included:
 1. Logs
