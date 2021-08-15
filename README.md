@@ -13,10 +13,17 @@
 
 ## Requirements:
 
-Menu https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
+**Exports**
 
-Progressbar https://github.com/BrunoMarc123/BR-Menu
+menu https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
 
+progressbar https://github.com/BrunoMarc123/BR-Menu
+
+mythc_notify https://github.com/JayMontana36/mythic_notify
+
+**Framework**
+
+ESX https://github.com/esx-framework/es_extended
 
 ## Installation 
 
