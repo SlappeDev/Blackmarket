@@ -1,6 +1,6 @@
 ## Preview
 
-[![Video](![image](https://user-images.githubusercontent.com/88968058/129477311-0a5d2049-56bb-4ea6-bb2b-0de480af1f08.png))](https://www.youtube.com/watch?v=3Gw76-ipVww)
+[![Video](https://user-images.githubusercontent.com/88968058/129477315-9e9e8682-fe78-4c91-b06c-8c44e01c6751.png)](https://www.youtube.com/watch?v=3Gw76-ipVww)
 
 
 ## Included:
