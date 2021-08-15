@@ -4,7 +4,6 @@
 3. Customizable in config.lua
 4. 0.01ms
 
----
 
 ## Requirements:
 
@@ -12,7 +11,6 @@ Menu https://forum.cfx.re/t/release-progress-bars-1-0-standalone/526287
 
 Progressbar https://github.com/BrunoMarc123/BR-Menu
 
----
 
 ## Installation 
 
