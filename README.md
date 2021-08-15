@@ -1,8 +1,8 @@
 ### Included:
-Logs
-Custom menu
-Customizable in config.lua
-0.01ms
+1. Logs
+2. Custom menu
+3. Customizable in config.lua
+4. 0.01ms
 
 ---
 
